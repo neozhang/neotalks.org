@@ -10,7 +10,7 @@ title: Home
 				<p>Posted at {{ page.date | date_to_string }}</p>
 			</div>
 			<div id="post-body" class="row">
-				{{ page.content | truncatewords: 420 }}
+				{{ page.content | truncate: 420 }}
 			</div>
 			<p id="post-link" class="row">
 				<a href="{{ page.url }}">Read now &rarr;</a>
