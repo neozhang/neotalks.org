@@ -1,0 +1,5 @@
+permalink: /:categories/:title.html
+auto: true
+pygments: true
+markdown: rdiscount
+paginate: 10

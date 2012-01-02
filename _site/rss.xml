@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neo Talks</title>
+    <link>http://neotalks.org/</link>
+    <atom:link href="http://neotalks.org/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Neo and His Matrix</description>
+    <language>zh-CN</language>
+    <pubDate>Tue, 03 Jan 2012 01:13:46 +0800</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2012 01:13:46 +0800</lastBuildDate>
+
+    
+    <item>
+      <title>Github：社区胜于工具</title>
+      <link>http://neotalks.org/cn/github-community-rather-than-a-tool.html</link>
+      <pubDate>Tue, 29 Nov 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/cn/github-community-rather-than-a-tool</guid>
+      <description>&lt;p&gt;这周在知乎上回答了这样一个&lt;a href=&quot;http://www.zhihu.com/question/19931404&quot;&gt;问题&lt;/a&gt;：Github 是怎么火起来的？&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Github 的创始人曾经在 Startup Open Sourced 这本书上提到他们是如何在一个 Ruby 的线下聚会遇到，所以他们非常重视线下的社区聚会活动。他们的 Github Drinkup 活动从湾区开始，后来变成用户自发组织，变成全球很多开发者聚集的城市都会搞的活动。这样的社区号召力使得 Github 从一个源代码管理的工具变成了真正的开发者社区。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;这就是原因，Github 不是一个简单的代码管理工具，在开源社区最流行的 git 的基础上，它把自己变成了一个 hacker 的社区。这是一件非常难得的事情，本来创建一个活跃并高质量的社区就是不简单，更何况这个社区中交流的语言是代码！而且，hacker （这里的 hacker 泛指热爱用技术的方式解决问题的人，在本文中与开发者、程序员等词交替使用）是一些非常不一样的人，能够吸引这些人的短期注意和长期兴趣是非常不容易的事情。Paul Graham 在他一篇&lt;a href=&quot;http://www.paulgraham.com/gh.html&quot;&gt;文章&lt;/a&gt;中写道：&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;因为认识一些伟大的黑客，所以我坐下来思考他们的共性。可能真正能定义他们的特点是，他们都非常热爱写程序。一般的程序员写代码是为赚钱来付账单。伟大的黑客们认为写代码是一种乐趣，顺便也乐意因此有人愿意付给他们钱。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Paul Graham 的原文很长，包括了他认为的伟大的黑客身上不同的特质。但是在文章开头的这段话是我认为可以用来真正解释 Github 是怎么火起来的这个问题的。Github 把源自于开发者社区的 Git 变成了一个开放的社区，让热爱代码的人可以自由的在代码的层面上交流。出色的用户体验和开源社区领袖的支持使得社区质量很快超出了所有竞争对手。也许常人不能理解，为什么代码之间的交流也会成为一种社区，但是，这就是黑客与常人不同的地方，他们在这里找到了自己的乐趣。Social Coding 是 Github 的口号，当之无愧。&lt;/p&gt;
+
+&lt;p&gt;最近在 Github 创始人 Tom Preston-Werner 最近的一篇博客中，他认为 Github 的文化是“开源几乎所有的东西”，这使得 Github 不断的成为开源社区中最重要的组成部分。他举例说，在开源了 Hubot（一个基于 Node.js 的聊天机器人）之后的两天内，这个代码仓库获得了超过 500 个开发者的关注和 409 个 Hacker News （天使投资机构 Y Combinator 主办的关于技术和创投的社区）上的投票。&lt;/p&gt;
+
+&lt;p&gt;在知乎上，有人问到国内是否有类似 Github 的产品。其实就代码分享或者版本管理等方面的产品一直层出不穷，在 Github 之前之后出现的 Sourceforge、BitBucket 甚至 Google Code 都没有获得像今天 Github 类似的在社区中的地位。但是从创造一个活跃的高质量的开发者社区角度来看，还没有类似的产品能与之相比。&lt;/p&gt;
+
+&lt;p&gt;现在是一个开发者的价值在整个市场都被重视的时刻，不管是招聘，还是从投资，或者是从像果合或者 36 氪这样的为开发者服务的产品角度。我们一直希望能够创造一个足够开放和自由交流的平台，这表现在果合每一场线下活动的设计，和每一次或大或小的产品更新。有时候我宁可相信开发者自己会比我们更懂得他们的需求，因为他们是这个时代最聪明和勤奋的头脑，他们对自己代码和产品的热爱远远超过其他任何人，正因为如此，开放的社区平台远远比预设的规则、主题或者算法更重要。或许中国的市场环境和美国不同，但是，我们希望能从 Github 的成功之道中获取养分，创造一个充满活力的开发者社区。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kindle 和应用的长期收益</title>
+      <link>http://neotalks.org/cn/kindle-long-term-revenue-of-apps.html</link>
+      <pubDate>Mon, 21 Nov 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/cn/kindle-long-term-revenue-of-apps</guid>
+      <description>&lt;p&gt;在过去的这个星期里，被广泛认为是 iPad 杀手的 Kindle Fire 终于发送到了数百万消费者的手中。主流的科技媒体都在第一时间发布了对这台 Amazon 的 Android 平板电脑的看法。另外一个较小的新闻是，Readability，一个帮助用户保存网页文本以在稍后阅读的应用，在这一周中宣布采用 freemium 模式，原先的 5 美金月费改为了只有高级功能付费的模式。&lt;/p&gt;
+
+&lt;p&gt;以上两则新闻，看似没有什么关系，但它们却在著名“稍后读”应用 Instapaper 开发者 Marco Arment 的个人博客上相遇了。Marco 的两篇博文分别对这两则消息做了自己的回应。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.marco.org/2011/11/17/kindle-fire-review&quot;&gt;关于 Kindle Fire&lt;/a&gt;：我读了几个章节的书、三本杂志和一份报纸。我玩了两个游戏并从两个地方看了四集电视剧。我花了非常久才设置好我的电子邮件，没有找到一个好用的 RSS 阅读器，（阅读的时候）错翻了很多页，碰到了好多反复点击却没有响应的情况，以及多个应用程序崩溃，和 Kindle 系统本身崩溃。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.marco.org/2011/11/16/readability&quot;&gt;关于 Readability&lt;/a&gt;：Readability 当然是 Instapaper 的直接竞争对手。不过我也毫不惊讶，我仍然希望能与他们保持友好的关系。
+这是一个很大但也日益激烈的市场，我们没有任何理由不能互相尊重并分享这个市场。&lt;/p&gt;
+
+&lt;p&gt;我看到的是一个成功的付费应用开发者对移动 app 生态圈的看法，毫不惊讶。Marco 的 Instapaper 标价 5 美金，从 iPhone 时代到 iPad 时代，一直是我首屏甚至 dock 上的必备应用，曾经和无数朋友推荐购买。因为这个应用的成功，他甚至辞去了 Tumblr CTO 的工作，全职投入到这个应用及其后台服务的开发和维护上。在 Instapaper 上，占据绝大部分盈利的是 app 在应用商店上的5美金付费下载，而使用 Instapaper 的 web 服务、Kindle 推送服务都不需要一分钱，除非你愿意每个月花 1 美金支持 Marco，并获得少量的高级功能。毫无疑问，使用 Instapaper 的最主要设备是 iOS 这个具有成熟的开发环境和生态系统的平台，这是 Marco 做出这些商业决定最主要的因素。&lt;/p&gt;
+
+&lt;p&gt;Kindle Fire 这个售价仅为 iPad 40% 的 Android 设备，显然缺乏应用生态系统的支持。从一位成功的 iOS 开发者的角度看，当然没有说服力。他的评测中提到的软件和硬件性能问题也见诸于其它媒体的评测。然而，他的文字却提到了阅读和其它的媒体消费，看起来 Amazon 在这些方面做得不错。难道这不是 Amazon 的目的吗？没错，一个足够便宜不计成本的设备，销售几千万部，让消费者更容易更多的购买 Amazon 的内容和商品。至于应用和游戏的表现，随着时间的推移总会得到解决——或许是在第二代 Kindle Fire。&lt;/p&gt;
+
+&lt;p&gt;和 Kindle Fire 相似，Readability 提供的服务模式也是用最低的成本获取最多的用户，然后通过增值服务来获取长期持续不断的订阅收入。虽然 Readability 和 Instapaper 在产品模式上是“直接竞争”，但是两者的商业模式完全不同。Instapaper 只需要一次付费就可以终生使用，而 Readability 的 Premium 版本则是每个月都要交上 5 美金。&lt;/p&gt;
+
+&lt;p&gt;并非 Kindle 和 Readability 的模式一定占优。消费者只会为更好的价值买单。Amazon 能够以超低价格推出 Kindle Fire 的底气在于大量优质的商业版权内容。用户付出的 200 美金设备成本中，还有相当的部分被认为是进入享有这些内容的入场券。对于 Readability 而言，需要提供足够好的增值服务，才能吸引足够多的付费用户。目前这个服务能拿出来的本领还非常有限，无限量的存档空间和每日 Kindle 推送都是 Instapaper 的免费功能。仅仅在回馈网络作者方面有想法（Readability 宣称会有 70% 收入分成给文章作者）并不能成为用户付费的理由。&lt;/p&gt;
+
+&lt;p&gt;考虑资产的长期价值是做投资决定最重要的概念。Kindle 系列产品是 Amazon 在过去几年中最重要的策略之一。在短短的几年时间中，Kindle 的价格一再下降，但附属的内容价值一再上升——这是 Kindle 这项投资的长期价值，它比一次性获取的设备价值重要太多了，以至于在 Kindle Fire 上切水果的流畅度都可以在短期内忽略不计。&lt;/p&gt;
+
+&lt;p&gt;PS：在移动应用的生态系统中，广告模式是一种长期盈利的方式。对于生命周期较长的应用而言，通过广告模式持续的获取收入是把应用本身变成了可以稳定盈利的长期资产，只要提供了长期的用户价值，理应收到更好的资产回报。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>从 HTML 5 和 Flash 之争看开发者社区</title>
+      <link>http://neotalks.org/cn/adobe-html-5.html</link>
+      <pubDate>Mon, 14 Nov 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/cn/adobe-html-5</guid>
+      <description>&lt;p&gt;过去的一周的一个大事件是 Adobe 宣布放弃移动版的 Flash 开发，而全面转向 HTML 5，为 HTML 5 与 Flash 之间的争论画上了一个句号。&lt;/p&gt;
+
+&lt;p&gt;这场争论开始于 2010 年 4 月，Steve Jobs 在苹果官方网站上发表的 &lt;a href=&quot;http://www.apple.com/hotnews/thoughts-on-flash/&quot;&gt;Thoughts on Flash&lt;/a&gt;。在这篇文章中，他列举了包括开放性、性能、电池续航、对触摸交互的支持等多个理由，最后结论于 iOS 的生态系统不会接受一个来自第三方的软件层供移动应用在其上运行。这样的影响是 HTML 5 变成了除了 iOS 原生体验之外唯一的选择，同时也是唯一真正的跨平台选择。这篇文章开启了业界第一次关于这个话题的热议。记得我还在纽约时报上看到了 Adobe 刊登的整版广告，上面用硕大的字体写着：We Love Apple。&lt;/p&gt;
+
+&lt;p&gt;一年半的时间很快过去了。我们并没有看到 Flash 在移动设备上太多的曝光。相反，我们看到 HTML 5 在包括桌面和移动领域快速的拓展。HTML 5 不仅仅成为了 web app 重要的组成部分，也可以用来开发网页游戏，制作具有高互动性的广告创意，在 PhoneGap 等框架的支持下进入 App Store 发行渠道成为原生应用。Adobe 在不久前宣布收购了 PhoneGap 开源项目最大的代码贡献组织，已经在为从 Mobile Flash 到 HTML 5 的战略转移布局。&lt;/p&gt;
+
+&lt;p&gt;在开发者社区中，越来越多的软件开发者从 C++ 和 Java 转向了 Objective C 和 Android 原生开发。相关的技术书籍越来越丰富。原生应用可以更完整的支持设备的各种特性，性能更好，开发工具也不比 Flash 差劲。加上 App Store 和 Android Market 构造的完整的生态圈，这些原生应用可以很容易的从内置广告和付费购买中获得收益。短短几年时间，上百万应用进入了数亿用户的设备上。Flash 从来没有为开发者社区带来类似的效应。可能很少有人注意过，Adobe 确实曾经为 Flash / AIR 应用设计过一个应用商店。&lt;/p&gt;
+
+&lt;p&gt;HTML 5 对于很多开发者而言似乎更加陌生。来自 Web 的技术似乎从来都&lt;a href=&quot;http://joehewitt.com/2011/09/22/web-technologies-need-an-owner&quot;&gt;缺乏一个责任人&lt;/a&gt;。W3C 在 HTML 5 / CSS 3 标准制定上进展缓慢，Javascript 的逻辑令人费解同时缺乏同意的标准框架。当面对不同硬件设备和浏览器环境的时候，HTML 5 其实也没有好办法来提高性能或调动硬件功能。最近我们的团队在计划一项轻量级的为移动设备专门设计的产品特性，在和产品团队讨论的时候，我听到了这样的反馈：“HTML 5 的确是最适合开发这个特性的选择，但是也许一个移动应用是这个团队更擅长的东西。”这样的反馈可能会出现在很多移动应用团队的身上，因为他们的 DNA 已经转到原生应用上。如果没有足够的理由，我们可能会看到越来越多的聪明人深入原生应用开发，反而让 HTML 5 技术人才出现一个尴尬的空缺。&lt;/p&gt;
+
+&lt;p&gt;HTML 5 需要一个更明确的领导者。不仅仅是通过浏览器技术提高渲染性能，更是降低相关技术的学习成本，比如更清晰的技术标准，更丰富的技术指南，更易用的开发设计工具，将制作开发流程标准化流水线化，在特定的商业需求中找到可以复用的规律并将它们产品化，甚至是围绕相关的技术和产品，建立一个类似 App Store 的生态系统和有机的商业模式，鼓励更多的开发者加入其中形成社区，或者通过类似 PhoneGap 的途径融合进入原生应用的生态系统。这样的正向循环是数量庞大的代码片段、类库、SDK、开发工具、软件项目、商业产品在这个系统上迸发，并获取数额客观的利润，进一步激发更多的开发实践和更成熟的商业链条。这也是 App Store 最为公开的成功秘诀。&lt;/p&gt;
+
+&lt;p&gt;题外话是，在 Mozilla 的网站上&lt;a href=&quot;https://developer.mozilla.org/en/HTML/HTML5#Technologies_often_called_part_of_HTML5_that_aren%27t&quot;&gt;公布&lt;/a&gt;了一些通常被认为是 HTML 5 的技术，但其实却并非 HTML 5  标准框架的一部分。感兴趣的同学可以去看看这些似是而非的概念。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>App 群星闪耀时</title>
+      <link>http://neotalks.org/cn/the-galaxy-of-apps.html</link>
+      <pubDate>Sun, 16 Oct 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/cn/the-galaxy-of-apps</guid>
+      <description>&lt;p&gt;最近是北京最好的季节。秋高气爽，夜晚的天空也一样晴朗，抬眼望去，天空中繁星闪耀，令人心旷神怡。一次和朋友在家附近散步，被这样的美景所吸引，同时也想起在移动互联网的浪潮中诞生的如同繁星闪耀般的 app 们。尽管全球经济并不景气，但在这个世界里，最年轻的聪明的头脑都在思考并忙碌着，创造各种应用。&lt;/p&gt;
+
+&lt;p&gt;Angry Birds 和 Foursquare 会是竞争对手吗？从某种意义上，是的。它们都希望占有更多的用户时间和注意力。但是，无论多么优秀的 app 都不会完全占据用户的时间。人类的注意力只能维持聚焦在同一件事上有限的时间，一旦超出这个限制，就产生厌恶的情绪。由此，在 Apple 等各家的应用商店里面，出现了纷繁的类别对 app 进行区分。而在诸如 Social Networking 和 Lifestyle 这样的分类中，由于竞争过于激烈，app 们还在进行进一步的细分。仅仅从打折优惠的角度，就有快餐连锁、一般餐饮、时尚品牌、酒店等多种不同的分别。&lt;/p&gt;
+
+&lt;p&gt;iOS 5 的一系列新特性其实已经不大为我们惊讶了。早在 WWDC 的时候，媒体和行业内就对 Apple 在 OS 层面对生态系统内的 app 的一系列“借鉴”颇多微词：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;iMessage：整合在短信界面的 Whatsapp 和 Kik&lt;/li&gt;
+&lt;li&gt;Reading List：整合在浏览器内的 Instapaper&lt;/li&gt;
+&lt;li&gt;Newsstand：内置在 OS 内的报刊阅览器&lt;/li&gt;
+&lt;li&gt;从锁屏激活的相机以及简单的图片编辑：似乎是借鉴了 Camera+&lt;/li&gt;
+&lt;li&gt;iCloud：应该是 Dropbox 类应用的麻烦，我还记得 Elements 和 Notely 等一大堆以整合 Dropbox API 为卖点的笔记或文本编辑类应用&lt;/li&gt;
+&lt;li&gt;Find Your Friends：会不会和 Foursquare 竞争&lt;/li&gt;
+&lt;li&gt;Reminder：Things 的简化版&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;由上，如果把整个生态系统看做是一个星系，则 OS 是整个星系的中心。最靠近中心的是一系列基础应用，这部分应用往往需要非常强的商业基础，才不会被 OS 本身吸收掉（比如 Twitter 被整合进 iOS 5，实际上对 Twitter 本身是增强的）。而这个星系的中心，也更加需要这一系列的基础应用提供核心功能的外延和数据基础。在此之外，会有第二层、第三层……至第 N 层应用，逐步细分，满足不同的应用场景（如同豆瓣最近连续出品的 6 个 app）。&lt;/p&gt;
+
+&lt;p&gt;另一个景象是：就是外围的应用会需要内层的应用进行分发。比如：LBS 需要同步到 SNS 才能弥补自身内容单一、社交功能单薄的不足；而 SNS 则成为各家 LBS 数据的聚合者，获得了免费的数据源，长期中可以发展基于行为数据的商业模式。那么是否可以继续推演到更加外围的应用呢？&lt;/p&gt;
+
+&lt;p&gt;如果移动应用的繁星图谱呈现中心放射的图景，是否意味着基于应用的移动广告和移动营销将呈现更为细分的前景？在这些有限的展示空间和碎片时间中，到底什么的形式才能体现移动应用的媒体价值呢？我相信，这是未来几个月中，中国移动互联网最有趣的问题之一。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>谢谢乔布斯</title>
+      <link>http://neotalks.org/cn/thank-you-steve.html</link>
+      <pubDate>Thu, 06 Oct 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/cn/thank-you-steve</guid>
+      <description>&lt;p&gt;早上起床，知道的第一个消息是 Steve Jobs 去世了。我不知道在经历了过去的种种跌宕起伏之后，这个清瘦而高大，嗓音有些尖锐，被很多人称为英雄、伟人和天才的人在最后的时光中是如何看待外面的世界。就在北京时间前天凌晨，他的继任者 Tim Cook，新任的 Apple CEO，和他熟悉的团队成员宣布了新一代的 iPhone 的硬件和软件。外界的声音无疑是失望的、怀疑的。科技博客及时的找到了 AAPL 股价下跌的曲线贴在微博上。批评的声音直到一天之后才开始减弱，敢于用不同声音发言的专家们开始认为这次发布会并不平淡，这是一个正确的选择，是为长远中的未来的准备。&lt;/p&gt;
+
+&lt;p&gt;如果回顾苹果公司的历史和 Steve Jobs 本人的传记，不难发现这家公司其实非常年轻。虽然对个人电脑、人机交互和移动智能计算贡献卓著，但是在商业上的成功还是最近几年的事情。在苹果早期的历史中，董事会和管理层并不互相认同，创始人被迫出走，产品虽然标新立异，但却也受此羁绊，销售迟缓。就连乔布斯本人也曾经犯下这样那样的错误。直到他在 Pixar 之后以及重返苹果之后才开始逐步找到管理运营这家从来不缺乏 think different 基因的公司。是 think different 加上对人性的超乎寻找的理解以及对细节的雕琢，还有市场时间、慧眼识人、全球供应以及运气等等，成就了现在的乔布斯和苹果。&lt;/p&gt;
+
+&lt;p&gt;这样的成功不知道是否能够复制，他的继任者 Tim Cook 被认为是一个执行力很强的人，但是在乔布斯身后做苹果的 CEO 从来都不是一个好主意。就像 Jeff Immelt 这位现任 GE 的掌门人，始终都没有足够的好运气来证明他和他的前任 Jack Welch 相比同样具有提振企业价值的能力（尽管前者是一位 HBS 的高材生）。&lt;/p&gt;
+
+&lt;p&gt;想到乔布斯，更多想到的是他的勇气和信心。他说：那些疯狂的想要改变世界的人往往是那些做到的人。再联想起苹果著名的 Think Different 系列广告，那些伟大的思想者的头像，如爱因斯坦，和苹果的 logo 以及 Think Different 的文字放在一起，今天也更适合放在 Steve Jobs 的照片上。&lt;/p&gt;
+
+&lt;p&gt;如果说乔布斯是一个文化象征，代表了设计和体验在商业世界中获得了价值承认了，代表了人类在满足了功能性需求后开始考虑美学和艺术的追求，代表了亿万人对更精致生活的诉求，那么今天在世界各地自发悼念 Steve Jobs 的人们，如同当年悼念 Michael Jackson 一样，是在向新的生活观念致敬，向勇气和信心致敬。&lt;/p&gt;
+
+&lt;p&gt;我们会看到下一个 Steve Jobs 逐渐浮现在我们的视野中，或许是一个现今不被人留意的角落，或许是从你我的身边。人类文明在不断前进的同时，总有被眷顾的灵魂称为时代精神的凝聚，称为下一个时代的共同仰慕。&lt;/p&gt;
+
+&lt;p&gt;Thank you, Steve.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://m1.img.libdd.com/farm2/44/6F8903C3C169219B72F476251B9A862C_500_457.jpg&quot; alt=&quot;Steve&quot; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+
+  </channel> 
+</rss>
