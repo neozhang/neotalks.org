@@ -1,23 +1,23 @@
 ---
 layout: base
 ---
-<div id="content" class="span12">
-	<div id="site-navigation" class="row">
+<div id="content" class="span12 offset2">
+	<div id="site-navigation">
 		<ul class="breadcrumb">
 			<li><a href="/">Home</a> <span class="divider">/</span></li>
 			<li class="active"><a href="{{ page.url }}">{{ page.title }}</a></li>
 		</ul>
 	</div>
 	<div class="post-item-wrapper">
-		<div id="post-title" class="row">
+		<div id="post-title">
 			<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 			<p>Posted at {{ page.date | date_to_string }}</p>
 		</div>
-		<div id="post-body" class="row">
+		<div id="post-body">
 			{{ content }}
 		</div>
 	</div>
-	<div id="post-navigation" class="row pagination">
+	<div id="post-navigation" class="pagination">
 		<ul>
 		{% if page.previous %}
 			<li>
