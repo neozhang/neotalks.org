@@ -3,7 +3,8 @@ body {
 }
 
 .container {
-	padding: 50px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 	margin-top: 50px;
 	margin-bottom: 50px;
 	border: 1px solid #D0D0D0;
