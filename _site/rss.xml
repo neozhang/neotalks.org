@@ -6,8 +6,8 @@
     <atom:link href="http://neotalks.org/rss.xml" rel="self" type="application/rss+xml" />
     <description>Neo and His Matrix</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Jan 2012 02:00:07 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Jan 2012 02:00:07 +0800</lastBuildDate>
+    <pubDate>Tue, 03 Jan 2012 10:47:06 +0800</pubDate>
+    <lastBuildDate>Tue, 03 Jan 2012 10:47:06 +0800</lastBuildDate>
 
     
     <item>
@@ -137,6 +137,228 @@
 &lt;p&gt;Thank you, Steve.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://m1.img.libdd.com/farm2/44/6F8903C3C169219B72F476251B9A862C_500_457.jpg&quot; alt=&quot;Steve&quot; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brewing</title>
+      <link>http://neotalks.org/en/brewing.html</link>
+      <pubDate>Thu, 28 Jul 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/brewing</guid>
+      <description>&lt;p&gt;I like the word “brew”. It usually takes extra care, patience and thoughts to make sure things are aligned precisely correct.&lt;/p&gt;
+
+&lt;p&gt;It is like what we are working on right now - an idea-level refresh on the product. Everyone now starts to rethink about their design, code, documentation and process. We discuss several times everyday to keep each of us in the golden state of sync. Sometimes I am really amazed by our self-disruption, but I can always find a strong position to feel peaceful when I see how we actually navigate through, of course, with the extra care, patience and thoughts, required in the process of brewing something great.&lt;/p&gt;
+
+&lt;p&gt;“Brewing” is an art rather than a science. It is all about balancing this and that, with the consideration of timing and other subtle factors. Automated procedures will not solve the problem at all, neither do recipes ever exist. Trial and error in years only take you to an intermediate level. Only inspirational friends and teams can help form ideas and plans. They are the key ingredients or the secret sauce behind the scene.&lt;/p&gt;
+
+&lt;p&gt;I cannot wait to see the thing up on the stage. It is the time to think about its debut - it has to be really special (in a good way) to respond to the hard-brewing we are going through right now.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Shift</title>
+      <link>http://neotalks.org/en/the-shift.html</link>
+      <pubDate>Mon, 18 Jul 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/the-shift</guid>
+      <description>&lt;p&gt;This Monday, according to my work log, I spent 5.5 hours on brainstorm sessions. On product, business and design, I chatted with different people on or not on my team to find the golden point of the next breakthrough. This is the beauty of working on a start-up: you come up with a bright idea, and work your ass off, and then you come back again to the meeting room to find the next iteration to work on. This cycle is never repetitive. In contrast, it always uses the strongest mental power to achieve goals.&lt;/p&gt;
+
+&lt;p&gt;Usually the process of the product iteration is the process of shifting focus on different market segments. When you first start up, you usually look at the product-founder-passion-market fit (please &lt;a href=&quot;http://hnsearch.com/&quot;&gt;search&lt;/a&gt; &lt;a href=&quot;http://news.ycombinator.com&quot;&gt;Hacker News&lt;/a&gt; if you haven’t heard such phrases or only have heard about product-market fit) and choose the best entry to access your early adopter group. A few months later, you will start to realize that the team needs to move on to attack a bigger or an upper-stream niche. It lands naturally on the problem how you can build features upon the current model to serve the new segment. In this sense, you want to keep the core components of the product really strong and flexible to be able to support unexpected changes.&lt;/p&gt;
+
+&lt;p&gt;As I wrote in my personal &lt;a href=&quot;http://momentoapp.com/&quot;&gt;diary&lt;/a&gt;,&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;Great ideas don’t come out of nothing. They usually happen after thousands of attempts, some of which seem stupid and meaningless. Putting together a strong fighter team and having them execute on (agreed) ideas will make us leap forward to the next level.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;I shared some big slides on the weekly morning meeting to the team. I hope they can share some of what I have been thinking (and sometimes struggling) over the course of creating value in this wave of technology evolution. I hope we are all in.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prettier Excel Charts</title>
+      <link>http://neotalks.org/en/prettier-excel-charts.html</link>
+      <pubDate>Mon, 04 Jul 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/prettier-excel-charts</guid>
+      <description>&lt;p&gt;I am working with a summer intern on visualizing trends on the mobile Internet in China. We use the Microsoft Office stack extensively all the way through. I find that over all these years, the default setup for charts in Excel is still to improve. I summarized some tips below FYI so you can easily apply to make the (bar) charts prettier.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Choose your theme color to highlight and use greyscale colors for the rest of the charts&lt;/li&gt;
+&lt;li&gt;Remove the gridlines, ticks on the horizontal axis and the vertical axis - nothing but distractions&lt;/li&gt;
+&lt;li&gt;Use data value in the bars to indicate numeric values&lt;/li&gt;
+&lt;li&gt;Move the legend to the bottom&lt;/li&gt;
+&lt;li&gt;Remove the title and other stuff. Add them using textbox in PowerPoint&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;You should be able to get this in the end.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/prettier-excel-charts.png&quot; alt=&quot;the chart&quot; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Android by MSFT</title>
+      <link>http://neotalks.org/en/android-by-msft.html</link>
+      <pubDate>Tue, 21 Jun 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/android-by-msft</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;Yo: I'm doing an interview right now. The person does android. I asked her the difference with Android compared to other systems. She said Android is made by Microsoft and iPhone by Apple.
+Yo: Awesome. Can I post it on my Tumblr?
+Yo: Sure. What's your Tumblr account?&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>熟悉</title>
+      <link>http://neotalks.org/cn/familiar.html</link>
+      <pubDate>Sun, 19 Jun 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/cn/familiar</guid>
+      <description>&lt;p&gt;生活的节奏变快了，便越来越没有时间思考细微的选择。在购买的时候，往往屈服于熟悉两个字。&lt;/p&gt;
+
+&lt;p&gt;比如前段时间买来的登机箱，其实完全可以省下一半的钱。但是买箱包这件事所带来的哪些繁琐，想起来就觉得是累赘，需要仔细甄别真假、颜色和款式，还不如就去已经知道的那家店，买同事已经买过的款式和颜色。唯一的麻烦可能是日后行李万一放在一起会混淆，不过也无伤大雅。&lt;/p&gt;
+
+&lt;p&gt;比如在 iPad 上林林总总的阅读应用，大多数都是从各种网站上抓取来，按照一定的办法重新分类排版改头换面成一本杂志的样子。可惜的是，杂志毕竟是老到的编辑篇篇字字遴选而来，与摄影美工相互磨合出来。即便标题抓不住你的眼球，也总有在闲暇时光随手翻翻的价值。事到如今，人工编辑仍然是我笃信的价值。认识杂志的名字，比什么都重要。&lt;/p&gt;
+
+&lt;p&gt;比如经常去的超市、便利店、面包房和咖啡馆，好像总是去那些固定的地方。久而久之，腻味了，但还是再去。在&lt;a href=&quot;http://jiepang.com&quot;&gt;街旁&lt;/a&gt;上的那些地点，如果在地图上用图钉标注，一定会把图纸都戳烂。从这些地方买回来的东西，也总是一样的烹饪方法。&lt;/p&gt;
+
+&lt;p&gt;如果不是这每天日出日落养成的熟悉，恐怕生活一下子就多出来很多问题。和谁去什么地方做什么，如果这是一个疑问句，大概你们这些『智能』应用都答不上来吧！&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Business Cards</title>
+      <link>http://neotalks.org/en/business-cards.html</link>
+      <pubDate>Wed, 15 Jun 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/business-cards</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;Yo: Is there a back for the GH business card? If it's the same on both sides, can we do one side in Chinese, and one side in English?
+Yo: We keep the back blank.&lt;/p&gt;&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Untitled</title>
+      <link>http://neotalks.org/en/people-look-prettier.html</link>
+      <pubDate>Tue, 07 Jun 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/people-look-prettier</guid>
+      <description>&lt;p&gt;People look prettier when they are listening to beautiful songs.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Sleepless Nights</title>
+      <link>http://neotalks.org/en/the-sleepless-nights.html</link>
+      <pubDate>Thu, 26 May 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/the-sleepless-nights</guid>
+      <description>&lt;p&gt;I don’t have many sleepless nights, especially the desperate ones. Sometimes when I cannot sleep, it is usually because I am excited about things in life - thinking of the rush of blood to your head - beds are just too small to hold your entire universe.&lt;/p&gt;
+
+&lt;p&gt;When I was still in middle school, I was convinced that sleep is not a physical need. Being a late-nighter or early-riser, I work at my little desk teasing my brain, believing the extra awake hours can boost my life. Until recently, I read about the article on WSJ about how a small percent of the mankind does not need that much sleep to function well. It sounds like a late proof to what I believed since school years.&lt;/p&gt;
+
+&lt;p&gt;I am having sleep problems recently, waking up several times every night. Kind friends asked me why I checked in so many times at home in early morning time. These check-ins are not fake. They only mean that I am awake and bored. Most of the time I could turn back to sleep in 5 or 10 minutes. Today I failed and decided to get up.&lt;/p&gt;
+
+&lt;p&gt;Mornings are really pleasant. It is super quiet and the Internet is amazingly fast (this is where it is supposed to be). I opened my window to let fresh air in and also enjoyed the chirping birds. The sound of the Nature is so familiar - when did I say that I want to record it (hint: a few days ago in Shanghai). This is the time to deeply dive into your own world. Just stay away from all the disturbance and live your own life.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Now Offline</title>
+      <link>http://neotalks.org/en/now-offline.html</link>
+      <pubDate>Mon, 23 May 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/now-offline</guid>
+      <description>&lt;p&gt;&lt;img src=&quot;http://25.media.tumblr.com/tumblr_llnn5f9QyU1qawiwko1_500.jpg&quot; alt=&quot;now offline&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now offline. (Taken with &lt;a href=&quot;http://instagram.com&quot;&gt;instagram&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Superstar & Gold Rush</title>
+      <link>http://neotalks.org/en/superstar-and-gold-rush.html</link>
+      <pubDate>Thu, 05 May 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/superstar-and-gold-rush</guid>
+      <description>&lt;p&gt;I met with one of most famous tech bloggers in China, &lt;a href=&quot;http://twitter.com/newkonsou&quot;&gt;Li Nan&lt;/a&gt;, this afternoon. He writes for &lt;a href=&quot;http://ifanr.com&quot;&gt;ifanr.com&lt;/a&gt; on various topics including mobile, social and apps. It was very interesting to hear his perspectives on how the idea of “developer eco-system” can get traction from a media standpoint.&lt;/p&gt;
+
+&lt;p&gt;He compared the project I am working to the ones who sell jeans to the gold-rushers. To sell more jeans, you need to convince people that there is a big goldmine. The most convincing story is not that thousands of people have earned some average amounts, but one individual who made a billion. That single superstar will inspire thousands of people to rush for the gold, which might not even exist, and buy your jeans.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, this relates to the Behavioral Finance course I took in college. Risk-takers are more willing to take the bet to win a large amount at a small chance, rather than take an outcome with certainty. Gold-rushers are definitely risk-takers. But how about mobile app developers? I asked the question &lt;a href=&quot;http://www.zhihu.com/question/19628574?isn=1&quot;&gt;here&lt;/a&gt;. Feel free to answer it there or leave a comment below (note: comments closed).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Drinking (Social) Part Afterwards</title>
+      <link>http://neotalks.org/cn/the-drinking-part-afterwards.html</link>
+      <pubDate>Mon, 02 May 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/cn/the-drinking-part-afterwards</guid>
+      <description>&lt;p&gt;最近在读 &lt;a href=&quot;http://appsumo.com/startups-open-sourced/&quot;&gt;Startups Open Sourced&lt;/a&gt; 这本书，其中讲到 &lt;a href=&quot;http://github.com/&quot;&gt;GitHub&lt;/a&gt; 的创始人 &lt;a href=&quot;https://github.com/mojombo&quot;&gt;Tom Preston-Werner&lt;/a&gt; 曾经很喜欢去参加一个 Ruby meet-up，但是他只喜欢去后面的 drinking session，书中这样写道：&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;We always loved the drinking part afterwards, it was my favorite part because that is where you really got to socialize with people and talk about ideas; during the meetups it was mostly presentations.&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;不知道是不是很多人都有类似的感觉。每次去参加一些会议或者活动，在台上的演讲人好像从没有台下的观众吸引人。很多次经历过台上开大会，台下开小会的情况，对于这样的情况真的习以为常。也许 socializing 才是类似会议的真正价值，那些花哨的演示文稿不是。&lt;/p&gt;
+
+&lt;p&gt;PS - Start-ups Open Sourced 是一本集合了 30 几个与硅谷创业家的访谈的电子书，和另一本有名的 &lt;a href=&quot;http://www.amazon.com/Founders-Work-Stories-Startups-Problem-Solution/dp/1430210788/ref=sr_1_1?ie=UTF8&amp;amp;qid=1304343934&amp;amp;sr=8-1&quot;&gt;Founders at Work&lt;/a&gt; 不同，这本书中采访的人不见得是创业已经成功的，所以读起来有另外一种感悟。可以在 &lt;a href=&quot;http://www.appsumo.com/?r=Zy4J&quot;&gt;AppSumo&lt;/a&gt; 上购买，只要 7 美金。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>某个十字路口</title>
+      <link>http://neotalks.org/cn/the-crossroad.html</link>
+      <pubDate>Sun, 17 Apr 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/cn/the-crossroad</guid>
+      <description>&lt;p&gt;看到下面&lt;a href=&quot;http://blog.yangyc.com/?p=562&quot;&gt;这段文字&lt;/a&gt;：&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;终于还是发出去了给 CMU 的拒信，不去了。按下“Send and Archive”键时，是在办公室忙碌了整整一天的周六下午 7 点零 6 分。CMU 这个梦想，梦了好几年，等到实现的时候，又自己放弃了它。鼻子有点酸。&lt;/p&gt;
+
+&lt;p&gt;或许街旁没有我想象中那样离不开我，或许 CMU 能带给我的比我想象中要多很多，这些患得患失的想法曾经让我彻夜难眠。现在想得明白一点了：这只是一次选择罢了，只是向左或者向右，不是非黑即白。这样一来，就好多了。&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;一瞬间，仿佛在草稿箱里面堆积依旧的那些文字都开始变得有意义。&lt;/p&gt;
+
+&lt;p&gt;当远骋和我提起他最后的决定的时候，我还是多少诧异了一下。无论从朋友还是战友的角度，都不希望看到他去读书。街旁是一个有灵性的产品，灵魂就是远骋。&lt;/p&gt;
+
+&lt;p&gt;就在这个星期，小白也决定加入我们的团队。他来找我问这问那，一切仿佛回到一年之前的我。无数的彷彷徨徨和跌跌撞撞，还是走到今天这个不尴不尬的地步。取舍，是最常见的主题，无数次在谈话中反复重放，也没有更明白。&lt;/p&gt;
+
+&lt;p&gt;2009 年的感恩节，我没有用&lt;a href=&quot;http://ge.com&quot;&gt;前任雇主&lt;/a&gt;提供的福利，自掏腰包从大洋对岸回到北京。在那段时间，正是美国东岸人民饱受金融危机后失业大潮痛苦的低落期，在主街的酒吧里，经常能看到垂头丧气的金融业精英和各色人等无聊搭讪。当时，开复老师的创新工场已经在各处造势广招人马。在北京的5天时间，除了浑浑噩噩的对付时差，我把所有的时间放在和各种人吃饭喝茶聊天上。我希望能从这些对话中找到做取舍的建议，或者是干脆找到一个可取的机会，一路走下去。&lt;/p&gt;
+
+&lt;p&gt;在北师大附近有一个东北菜馆。当天晚上来了几路人马。&lt;a href=&quot;http://wangjunyu.net/&quot;&gt;俊煜&lt;/a&gt;在人不多的时候偷偷告诉我说他决定离开 Google 加入创新工场。雨森正在第一次创业中。远骋在百度实习做用户体验研究，同时准备申请出国读书。范忱应该是在西北大学休学期间，也在百度实习。&lt;/p&gt;
+
+&lt;p&gt;尽管这些人&lt;a href=&quot;http://www.lanrenux.com/?p=420&quot;&gt;后来&lt;/a&gt;都去做了各自的创业项目，但是大部分人在当时都似乎都怀着隐约的犹豫。这是一个最好的时代，每个人都有一个机会参与设计未来的进程，但是这个机会的代价可能难以估量。饭局散了，我在出租车上和雨森 pitch 我希望加入创业团队的想法。也许是当时&lt;a href=&quot;http://reemake.com/&quot;&gt;他的项目&lt;/a&gt;类型的缘故，这个 pitch 并不成功。&lt;/p&gt;
+
+&lt;p&gt;在这个饭局后不久，&lt;a href=&quot;http://weibo.com/davewliu&quot;&gt;David&lt;/a&gt; 也来到了北京，不久之后，他通过雨森和远骋结识，开始了后来的&lt;a href=&quot;http://jiepang.com/&quot;&gt;街旁&lt;/a&gt;。2010 年春天，我在北美西岸、东岸和中部还有欧洲分别做了短暂的工作旅行，在各种时差下和团队通宵达旦的工作。很多时候，通宵达旦并不是一种负担。真正的负担在于通宵达旦之后你并没有看到通宵达旦带来的&lt;a href=&quot;http://neozhang.tumblr.com/post/4334660704/softly-slowly-and-sentimentally&quot;&gt;价值&lt;/a&gt;：&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;p&gt;… help solve some of the world’s toughest problems, invent new things that benefit the rest and always sustain integrity while doing business …&lt;/p&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;我撒了一个谎。这个谎后来让我失去了一个很不错的朋友。回到国内之后，见到了当时正在四处找人的远骋，于是加入了他的团队。再后来的事情就是后来的事情了。&lt;/p&gt;
+
+&lt;p&gt;很多之前的朋友都在问工作是不是变得更忙了。我总是说其实没有。从工作时间长度的角度来看，还没有一个创业项目需要那么长的工作时间。但是在创造的过程中，需要考虑的事情那么多，很多事情不再有充分必胜的把握时候就要赶着时间上架，没有金字招牌和百年老店的声誉，也没有雄厚资金和政府关系，更没有一票名牌大学毕业的优质团队。工作是不是更忙了呢？这个真的很难比较。&lt;/p&gt;
+
+&lt;p&gt;有时候在想，如果这个项目没有成功，我获得了什么呢？除了狗屎运和经验值，我想总有一些做取舍的故事可以时时回想，作为未来某个十字路口的指路牌，或者是下一次冒险的借口。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>API</title>
+      <link>http://neotalks.org/en/api.html</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0800</pubDate>
+      <author>Neo Zhang</author>
+      <guid>http://neotalks.org/en/api</guid>
+      <description>&lt;p&gt;Jiepang just opened its &lt;a href=&quot;http://dev.jiepang.com&quot;&gt;API&lt;/a&gt; last week on its &lt;a href=&quot;http://we.jiepang.com/2010/12/27/dev-fes/&quot;&gt;first developer meet-up event&lt;/a&gt;. Since its first debut on the market, Jiepang is better known for its user experience and marketing than its backend technologies. People get to know Jiepang through big brands such as Starbucks or Nike and like the fashionable and easy-to-use look and feel, but not the &lt;a href=&quot;http://we.jiepang.com/2010/08/10/we-love-html5/&quot;&gt;HTML5 experiments&lt;/a&gt; or anything else in the back stage.&lt;/p&gt;
+
+&lt;p&gt;Due to my familiarity with the team, I know that the engineering minds behind the simple product are equally, if not more, brilliant. They have developed and maintained the API for internal use through the seven-month life of Jiepang, and based the product iteration process on top of the API backbone to enable its UI improvements and marketing operations. It is not just glossy badges and blinking banners, it’s that hardcore technical.&lt;/p&gt;
+
+&lt;p&gt;Yes, it is still a very young product, which nobody has any clues about its future. But I believe it’s on the right route to a bigger success, especially when you realize how the team has been able to put together the business and technical aspects of a mobile app through API. A great line-up of &lt;a href=&quot;http://itunes.apple.com/cn/app/id392682745?mt=8&quot;&gt;third&lt;/a&gt;-&lt;a href=&quot;http://banmake.com/&quot;&gt;party&lt;/a&gt; &lt;a href=&quot;http://16fun.com/&quot;&gt;apps&lt;/a&gt; have announced support to Jiepang and it’s still growing fast.&lt;/p&gt;
+
+&lt;p&gt;A best friend (also a great tech journalist) is recently planning a write-up for open platforms. I emailed him a few thoughts, basically about myself being an advocate of building API from day one and opening it up at the right pace. I think many APIs will be “semi-open” (i.e. opening to friendly people through a transparent review mechanism, like Apple’s App Store) due to the market competition in China. My own experience in some other projects have proven how powerful this is as a product &amp;amp; business strategy for some super early-stage ideas.&lt;/p&gt;
+
+&lt;p&gt;Fast rewinding to three or four years ago, when Twitter was still in its baby stage, it had a wide open API, well documented and unrestricted, frequently bringing down its fragile infrastructure. Nobody doubted the rightness of opening itself up in such an early stage. If the engineering is structured on top of a reasonable standard, the API should be able to serve the general public without limited extra efforts. One should not worry about whether developers will be interested in building apps using the API, but think about whether the open-up could enable new ideas to realize upon the API. If not, it’s a fake openness. Don’t bother at all.&lt;/p&gt;
+
+&lt;p&gt;I know there are many people concerning about the risk of opening up, Fine. There always are different ways to win. However, if there is an elegant winning strategy, with a defined position in a long-lasting eco-system, I’d take it.&lt;/p&gt;
 </description>
     </item>
     
