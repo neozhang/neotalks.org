@@ -20,7 +20,6 @@
 }
 
 #content {
-	padding-top: 20px;
 	padding-bottom: 20px;
 	border-top: 1px solid #D0D0D0;
 	border-bottom: 1px solid #D0D0D0;
@@ -39,6 +38,18 @@
 #content #post-title p {
 	font-size: 14px;
 	color: #909090;
+}
+
+#site-navigation .breadcrumb {
+	background: none;
+	padding: 0;
+	padding-left: 1em;
+	border: none;
+	background-color: #F0F0F0;
+}
+
+#site-navigation .breadcrumb a {
+	font-size: 13px;
 }
 
 .post-item-wrapper {

@@ -3,6 +3,12 @@ layout: base
 title: Home
 ---
 <div id="content" class="span12">
+	<div id="site-navigation" class="row">
+		<ul class="breadcrumb">
+			<li class="active"><a href="/">Home</a> <span class="divider">|</span></li>
+			<li><a href="/about.html">关于</a></li>
+		</ul>
+	</div>
 	{% for page in paginator.posts %}
 		<div id="post-item-{{ page.id }}" class="post-item-wrapper">
 			<div id="post-title" class="row">
