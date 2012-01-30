@@ -1,0 +1,51 @@
+---
+layout: post
+title: 几个产品邮件提醒的例子
+category: cn
+----
+工具型的互联网产品，往往需要用户进行一定程度上的熟悉和学习才能掌握使用，从而帮助用户完成一些特定的工作任务。根据产品复杂程度的不同，通过电子邮件和用户沟通很重要。下面总结了一些最近看到的例子。
+
+[Trello](http://trello.com) 是一个最近经常被提到的项目管理工具，今天在简单试用之后，发现了这个产品在发送邮件提示方面的细心设计：
+
+	To date, Trello has sent you very little email. We sent you a single email summary of unread notifications, and only after 24 hours of inactivity (meaning it has been 24 hours since you last touched the mouse in your Trello tab). It’s great for people who are regularly checking the site. But, of course, not everybody interacts with Trello that way. People were missing out on important stuff, which is disastrous for a collaboration tool. You actually want — nay, need – that email.
+
+via http://blog.trello.com/on-email-notifications/
+
+基本的想法是，如果一个用户经常使用这个工具，那么他不需要邮件提醒；相反，如果用户不经常使用这个工具，那么作为一个项目管理型的工具产品，每天一封的总结邮件也就足够了。
+
+稍早时候，我还观察过 [mixpanel](http://mixpanel.com) 的邮件提示，在我创建了一个账号之后，我分别收到了如下的邮件：
+
+1. 刚刚注册的时候：Welcome and Get Started，包括
+2. 注册后一个星期：Your next step - Engagement
+3. 注册后两个星期：Your next step - Build a funnel
+4. 注册后三个星期：Your next step - Segmentation
+
+这几封邮件分别代表了一个用户在开始逐渐学习使用 mixpanel 复杂而强大的功能的过程中可能会碰到的一些问题。每封邮件都有清晰的 call-to-action 按钮，以及标准的寻求帮助的链接。这些邮件的频率和内容都算合适，不会给用户造成太大的困扰。但和 Trello 的设计相比，假定下面两个情况：
+
+1. 用户已经开始使用 mixpanel：这些 email 是否多余？用户可能已经通过其它途径了解了使用方法。
+2. 用户没有开始使用 mixpanel：可能是在使用中碰到了困难，那么邮件是否解决了用户的问题呢？
+
+最后一个例子是 [Zendesk](http://zendesk.com)，一个建立用户支持中心（Help Desk）的工具型产品。该产品有 30 天的免费试用期，30 天后会要求用户付费以继续使用。在注册后的 30 天内，该产品发送了如下的 email：
+
+1. 刚刚注册的时候：确认邮件地址，以及一个使用样例的邮件
+2. 注册后 28 天：提示免费使用快要到期，提示付费
+3. 注册后 32 天：告知免费试用已经到期
+4. 注册后 36 天：询问为什么没有付费使用
+
+我不知道 Zendesk 如何选择这些日期，但是看起来他们有机会在免费使用期间根据我使用的情况，告诉我哪些我较多使用的功能在免费试用期间后失效。而在注册的 36 天后，那封询问为什么没有付费使用的 email 中的措辞和语气都让我觉得非常唐突：
+
+	Hello Neo,
+
+	I'm writing because you have let your Zendesk expire. We'd love to hear your thoughts on how the trial went and what your plans are. Do any of these reasons match your situation? Email me back with a quick note if you can.
+ 
+ 	a.) I'll be back. My project is on hold or needs budget approval.
+ 	b.) Zendesk doesn't meet my needs.
+ 	c.) I couldn't figure Zendesk out.
+ 	d.) I did not have enough time to test.
+ 	e.) I'm a customer/developer and was doing some testing with this trial.
+ 	f.) Other?
+
+	Kind regards,
+	Jennifer Hansen | Customer Advocate | support@zendesk.com
+
+虽然这封邮件使用了真实的姓名（这是一个常用的技巧以提高邮件的可信度），但是措辞却比较生硬。我收到邮件的时候以为是一封投诉邮件。
