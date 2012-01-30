@@ -37,14 +37,15 @@ category: cn
 > 
 > I'm writing because you have let your Zendesk expire. We'd love to hear your thoughts on how the trial went and what your plans are. Do any of these reasons match your situation? Email me back with a quick note if you can.
 > 
-> a.) I'll be back. My project is on hold or needs budget approval.
-> b.) Zendesk doesn't meet my needs.
-> c.) I couldn't figure Zendesk out.
-> d.) I did not have enough time to test.
-> e.) I'm a customer/developer and was doing some testing with this trial.
-> f.) Other?
+> a. I'll be back. My project is on hold or needs budget approval.
+> b. Zendesk doesn't meet my needs.
+> c. I couldn't figure Zendesk out.
+> d. I did not have enough time to test.
+> e. I'm a customer/developer and was doing some testing with this trial.
+> f. Other?
 > 
 > Kind regards,
+>
 > Jennifer Hansen | Customer Advocate | support@zendesk.com
 
 虽然这封邮件使用了真实的姓名（这是一个常用的技巧以提高邮件的可信度），但是措辞却比较生硬。我收到邮件的时候以为是一封投诉邮件。
