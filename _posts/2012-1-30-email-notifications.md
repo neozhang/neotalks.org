@@ -6,17 +6,15 @@ category: cn
 
 工具型的互联网产品，往往需要用户进行一定程度上的熟悉和学习才能掌握使用，从而帮助用户完成一些特定的工作任务。根据产品复杂程度的不同，通过电子邮件和用户沟通很重要。下面总结了一些最近看到的例子。
 
-[Trello](http://trello.com) 是一个最近经常被提到的项目管理工具，今天在简单试用之后，发现了这个产品在发送邮件提示方面的细心设计：
+[Trello](http://trello.com) 是一个最近经常被提到的项目管理工具，今天在简单试用之后，发现了这个产品在发送邮件提示方面的细心[设计](http://blog.trello.com/on-email-notifications/)：
 
 	To date, Trello has sent you very little email. We sent you a single email summary of unread notifications, and only after 24 hours of inactivity (meaning it has been 24 hours since you last touched the mouse in your Trello tab). It’s great for people who are regularly checking the site. But, of course, not everybody interacts with Trello that way. People were missing out on important stuff, which is disastrous for a collaboration tool. You actually want — nay, need – that email.
-
-via http://blog.trello.com/on-email-notifications/
 
 基本的想法是，如果一个用户经常使用这个工具，那么他不需要邮件提醒；相反，如果用户不经常使用这个工具，那么作为一个项目管理型的工具产品，每天一封的总结邮件也就足够了。
 
 稍早时候，我还观察过 [mixpanel](http://mixpanel.com) 的邮件提示，在我创建了一个账号之后，我分别收到了如下的邮件：
 
-1. 刚刚注册的时候：Welcome and Get Started，包括
+1. 刚刚注册的时候：Welcome and Get Started
 2. 注册后一个星期：Your next step - Engagement
 3. 注册后两个星期：Your next step - Build a funnel
 4. 注册后三个星期：Your next step - Segmentation
