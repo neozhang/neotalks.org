@@ -8,7 +8,7 @@ category: cn
 
 [Trello](http://trello.com) 是一个最近经常被提到的项目管理工具，今天在简单试用之后，发现了这个产品在发送邮件提示方面的细心[设计](http://blog.trello.com/on-email-notifications/)：
 
-	To date, Trello has sent you very little email. We sent you a single email summary of unread notifications, and only after 24 hours of inactivity (meaning it has been 24 hours since you last touched the mouse in your Trello tab). It’s great for people who are regularly checking the site. But, of course, not everybody interacts with Trello that way. People were missing out on important stuff, which is disastrous for a collaboration tool. You actually want — nay, need – that email.
+> To date, Trello has sent you very little email. We sent you a single email summary of unread notifications, and only after 24 hours of inactivity (meaning it has been 24 hours since you last touched the mouse in your Trello tab). It’s great for people who are regularly checking the site. But, of course, not everybody interacts with Trello that way. People were missing out on important stuff, which is disastrous for a collaboration tool. You actually want — nay, need – that email.
 
 基本的想法是，如果一个用户经常使用这个工具，那么他不需要邮件提醒；相反，如果用户不经常使用这个工具，那么作为一个项目管理型的工具产品，每天一封的总结邮件也就足够了。
 
@@ -33,16 +33,18 @@ category: cn
 
 我不知道 Zendesk 如何选择这些日期，但是看起来他们有机会在免费使用期间根据我使用的情况，告诉我哪些我较多使用的功能在免费试用期间后失效。而在注册的 36 天后，那封询问为什么没有付费使用的 email 中的措辞和语气都让我觉得非常唐突：
 
-	Hello Neo,
-
-	I'm writing because you have let your Zendesk expire. We'd love to hear your thoughts on how the trial went and what your plans are. Do any of these reasons match your situation? Email me back with a quick note if you can.
-	a.) I'll be back. My project is on hold or needs budget approval.
- 	b.) Zendesk doesn't meet my needs.
- 	c.) I couldn't figure Zendesk out.
- 	d.) I did not have enough time to test.
- 	e.) I'm a customer/developer and was doing some testing with this trial.
- 	f.) Other?
-	Kind regards,
-	Jennifer Hansen | Customer Advocate | support@zendesk.com
+> Hello Neo,
+> 
+> I'm writing because you have let your Zendesk expire. We'd love to hear your thoughts on how the trial went and what your plans are. Do any of these reasons match your situation? Email me back with a quick note if you can.
+> 
+> a.) I'll be back. My project is on hold or needs budget approval.
+> b.) Zendesk doesn't meet my needs.
+> c.) I couldn't figure Zendesk out.
+> d.) I did not have enough time to test.
+> e.) I'm a customer/developer and was doing some testing with this trial.
+> f.) Other?
+> 
+> Kind regards,
+> Jennifer Hansen | Customer Advocate | support@zendesk.com
 
 虽然这封邮件使用了真实的姓名（这是一个常用的技巧以提高邮件的可信度），但是措辞却比较生硬。我收到邮件的时候以为是一封投诉邮件。
