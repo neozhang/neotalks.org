@@ -35,7 +35,9 @@ category: cn
 
 > Hello Neo,
 > 
+> 
 > I'm writing because you have let your Zendesk expire. We'd love to hear your thoughts on how the trial went and what your plans are. Do any of these reasons match your situation? Email me back with a quick note if you can.
+>
 > 
 > a. I'll be back. My project is on hold or needs budget approval.
 > b. Zendesk doesn't meet my needs.
@@ -43,6 +45,7 @@ category: cn
 > d. I did not have enough time to test.
 > e. I'm a customer/developer and was doing some testing with this trial.
 > f. Other?
+>
 > 
 > Kind regards,
 >
