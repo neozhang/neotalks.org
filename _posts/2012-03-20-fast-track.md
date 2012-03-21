@@ -1,0 +1,19 @@
+---
+title: Ordinary vs. Fast Track
+layout: post
+category: cn
+---
+
+It is an ordinary start-up day. A few partner presentations in the morning, plus tons of emails and internal discussions till almost 8pm, I feel too tired to enjoy the walk after the quick dinner with colleagues. It seems that I need some mental rest. However, email doesn't seem to stop feeding my inbox. The rest of world is just waking up and kicking off the day. Things are taking places now and then, shitfing my attention from here to there.
+
+Management is usually considered as a "fast-track" for young professionals. One can see how young grads are more interested in titles like "product manager" or "management trainee", which HR might brag about with a career path of ”x-year-to-CXO". However, it requires multi-tasking, switching focus fast and prioritizing resource allocation. It assumes that people can always apply the right reasoning on the complicated interdepent relations of business items. And in the common case where multiple managers co-work on one business item, people have to argue about rights and wrongs, even more tedious. That is why the day for a general / project manager can be so tiring.
+
+In contrast, I often envy the day of being a designer or a coder. Their life seems to be a lot easier: sitting in front of a computer screen, figuring out the tickets assigned to them, most importantly, working on creative items such as designing a new wireframe or developing a new web page. They seldom do emails, or only the short ones if needed at all. They express their logic or reasoning through code or design. Just like how Zuckerburg disciplined at Facebook: Code Wins Argument.
+
+I sometimes joke around and say: I want to be a front-end engineer in my thirties. It is sometimes no joke. Front-end work is charming: it blends the coding logic with the design quality to create the actual user interface of web / mobile products. Without involving the unwanted management burdens, the work is purely thinking, designing and creating. Fortunately, the techniques required have been increasingly easy (and fun) to learn. It is like teaching yourself a new language, with which you can hook up with many beautiful people :)
+
+I read about this ultimate interview question from a post on Hacker News:
+
+> Imagine if you are extended multiple job offers from different companies, and you are trying to decide which one you will accept. Imagine that the way you go about this is that you write down the things that matter to you from most to least and that you use 3-5 things at the top of that list to decide. Those are your decision drivers. What are they?
+
+Most of us would be given the chance to choose from multiple job offers at some point, and many of us would practice the "pros-and-cons" approach as described above. If given a second chance, I might have chosen a different path, which should lead me to a more "ordinary" technical route of contributing social value, rather than the managerial "fast-track".
