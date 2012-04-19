@@ -1,7 +1,7 @@
 ---
 title: Ordinary vs. Fast Track
 layout: post
-category: cn
+category: en
 ---
 
 It is an ordinary start-up day. A few partner presentations in the morning, plus tons of emails and internal discussions till almost 8pm, I feel too tired to enjoy the walk after the quick dinner with colleagues. It seems that I need some mental rest. However, email doesn't seem to stop feeding my inbox. The rest of world is just waking up and kicking off the day. Things are taking places now and then, shitfing my attention from here to there.

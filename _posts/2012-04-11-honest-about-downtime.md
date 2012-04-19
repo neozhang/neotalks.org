@@ -1,5 +1,5 @@
 ---
-title:诚实（而勇敢）的面对故障时间
+title: 诚实（而勇敢）的面对故障时间
 layout: post
 category: cn
 ---
