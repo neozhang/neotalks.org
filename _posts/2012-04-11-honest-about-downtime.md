@@ -14,4 +14,4 @@ category: cn
 
 PS - 本文的题目和开头参考了 37signals 的博客：[Let's get honest about uptime](http://37signals.com/svn/posts/3067-lets-get-honest-about-uptime)。
 
-PS2 - 原文发表在 [果合团队博客](http://blog.guohead.com/2012/04/lets-be-honest-about-downtime/)
+PS2 - 原文发表在 [果合团队博客](http://blog.guohead.com/2012/04/lets-be-honest-about-downtime/)。
