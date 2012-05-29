@@ -16,7 +16,6 @@ body {
 
 #header h1 {
 	padding-top: 25px;
-	padding-bottom: 25px;
 }
 
 #header a {
@@ -35,7 +34,7 @@ body {
 }
 
 #content * {
-	font-size: 14.5px;
+	font-size: 16px;
 	line-height: 24px;
 }
 
