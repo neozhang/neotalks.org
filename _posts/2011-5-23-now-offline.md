@@ -1,5 +1,5 @@
 ---
-layout: psot
+layout: post
 title: Now Offline
 category: en
 ---

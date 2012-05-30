@@ -1,5 +1,5 @@
 ---
-layout: psot
+layout: post
 title: Superstar & Gold Rush
 category: en
 ---

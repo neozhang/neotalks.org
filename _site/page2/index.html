@@ -13,7 +13,7 @@
         <meta http-equiv="content-language" content="en" />
         <link rel="stylesheet" href="/assets/css/bootstrap.min.css" type="text/css" media="screen"/>
         <link rel="stylesheet" href="/assets/css/style.css" type="text/css" media="screen"/>
-        <link href="/rss.xml" rel="alternate" type="application/rss+xml" />
+        <link href="/atom.xml" rel="alternate" type="application/rss+xml" />
         <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -28,6 +28,11 @@
 
 </script>
 
+        <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+        <script type="text/javascript" src="/assets/js/underscore-min.js"></script>
+        <script type="text/javascript" src="/assets/js/backbone-min.js"></script>
+        <script type="text/javascript" src="/assets/js/moment.min.js"></script>
+        
     </head>
     <body>
     <div class="container">
@@ -43,202 +48,36 @@
 	        <div id="content" class="span8 offset2">
 	<div id="site-navigation">
 		<ul class="breadcrumb">
-			<li class="active"><a href="/">Home</a> <span class="divider">|</span></li>
+			<li id="home" class="active"><a href="#">Home</a> <span class="divider">|</span></li>
+			<li id="cn"><a href="#cn">中文</a> <span class="divider">|</span></li>
+			<li id="en"><a href="#en">English</a> <span class="divider">|</span></li>
 			<li><a href="/about.html">关于</a></li>
 		</ul>
 	</div>
-	
-		<div id="post-item-/cn/kindle-long-term-revenue-of-apps" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/cn/kindle-long-term-revenue-of-apps.html">Kindle 和应用的长期收益</a></h2>
-				<p>Posted at 21 Nov 2011</p>
-			</div>
-			<div id="post-body">
-				在过去的这个星期里，被广泛认为是 iPad 杀手的 Kindle Fire 终于发送到了数百万消费者的手中。主流的科技媒体都在第一时间发布了对这台 Amazon 的 Android 平板电脑的看法。另外一个较小的新闻是，Readability，一个帮助用户保存网页文本以在稍后阅读的应用，在这一周中宣布采用 freemium 模式，原先的 5 美金月费改为了只有高级功能付费的模式。
+	<div id="post-list">
 
-以上两则新闻，看似没有什么关系，但它们却在著名“稍后读”应用 Instapaper 开发者 Marco Arment 的个人博客上相遇了。Marco 的两篇博文分别对这两则消息做了自己的回应。
-
-关于 Kindle Fire：我读了几个章节的书、三本杂志和一份报纸。我玩了两个游戏并从两个地方看了四集电视剧。我花了非常久才设置好我的电子邮件，没有找到一个好用的 RSS 阅读器，（阅读的时候）错翻了很多页，碰到了好多反复点击却没有响应的情况，以及多...
-			</div>
-			<p id="post-link">
-				<a href="/cn/kindle-long-term-revenue-of-apps.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-		<div id="post-item-/cn/adobe-html-5" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/cn/adobe-html-5.html">从 HTML 5 和 Flash 之争看开发者社区</a></h2>
-				<p>Posted at 14 Nov 2011</p>
-			</div>
-			<div id="post-body">
-				过去的一周的一个大事件是 Adobe 宣布放弃移动版的 Flash 开发，而全面转向 HTML 5，为 HTML 5 与 Flash 之间的争论画上了一个句号。
-
-这场争论开始于 2010 年 4 月，Steve Jobs 在苹果官方网站上发表的 Thoughts on Flash。在这篇文章中，他列举了包括开放性、性能、电池续航、对触摸交互的支持等多个理由，最后结论于 iOS 的生态系统不会接受一个来自第三方的软件层供移动应用在其上运行。这样的影响是 HTML 5 变成了除了 iOS 原生体验之外唯一的选择，同时也是唯一真正的跨平台选择。这篇文章开启了业界第一次关于这个话题的热议。记得我还在纽约时报上看到了 Adobe 刊登的整版广告，上面用硕大的字体写着：We Love Apple。
-
-一年半的时间很快过去了。我们并没有看到 Flash 在移动设备上太多的曝光。相反，我们看到 HTML 5 在包括桌面和移动领域快速的拓...
-			</div>
-			<p id="post-link">
-				<a href="/cn/adobe-html-5.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-		<div id="post-item-/cn/the-galaxy-of-apps" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/cn/the-galaxy-of-apps.html">App 群星闪耀时</a></h2>
-				<p>Posted at 16 Oct 2011</p>
-			</div>
-			<div id="post-body">
-				最近是北京最好的季节。秋高气爽，夜晚的天空也一样晴朗，抬眼望去，天空中繁星闪耀，令人心旷神怡。一次和朋友在家附近散步，被这样的美景所吸引，同时也想起在移动互联网的浪潮中诞生的如同繁星闪耀般的 app 们。尽管全球经济并不景气，但在这个世界里，最年轻的聪明的头脑都在思考并忙碌着，创造各种应用。
-
-Angry Birds 和 Foursquare 会是竞争对手吗？从某种意义上，是的。它们都希望占有更多的用户时间和注意力。但是，无论多么优秀的 app 都不会完全占据用户的时间。人类的注意力只能维持聚焦在同一件事上有限的时间，一旦超出这个限制，就产生厌恶的情绪。由此，在 Apple 等各家的应用商店里面，出现了纷繁的类别对 app 进行区分。而在诸如 Social Networking 和 Lifestyle 这样的分类中，由于竞争过于激烈，app 们还在进行进一步的细分。仅仅从打折优惠的角度，就有快餐连锁、一般餐饮、时尚品牌、酒...
-			</div>
-			<p id="post-link">
-				<a href="/cn/the-galaxy-of-apps.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-		<div id="post-item-/cn/thank-you-steve" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/cn/thank-you-steve.html">谢谢乔布斯</a></h2>
-				<p>Posted at 06 Oct 2011</p>
-			</div>
-			<div id="post-body">
-				早上起床，知道的第一个消息是 Steve Jobs 去世了。我不知道在经历了过去的种种跌宕起伏之后，这个清瘦而高大，嗓音有些尖锐，被很多人称为英雄、伟人和天才的人在最后的时光中是如何看待外面的世界。就在北京时间前天凌晨，他的继任者 Tim Cook，新任的 Apple CEO，和他熟悉的团队成员宣布了新一代的 iPhone 的硬件和软件。外界的声音无疑是失望的、怀疑的。科技博客及时的找到了 AAPL 股价下跌的曲线贴在微博上。批评的声音直到一天之后才开始减弱，敢于用不同声音发言的专家们开始认为这次发布会并不平淡，这是一个正确的选择，是为长远中的未来的准备。
-
-如果回顾苹果公司的历史和 Steve Jobs 本人的传记，不难发现这家公司其实非常年轻。虽然对个人电脑、人机交互和移动智能计算贡献卓著，但是在商业上的成功还是最近几年的事情。在苹果早期的历史中，董事会和管理层并不互相认同，创始人被迫出走，产品虽然标新立异，但却也受此...
-			</div>
-			<p id="post-link">
-				<a href="/cn/thank-you-steve.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-		<div id="post-item-/en/brewing" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/en/brewing.html">Brewing</a></h2>
-				<p>Posted at 28 Jul 2011</p>
-			</div>
-			<div id="post-body">
-				I like the word “brew”. It usually takes extra care, patience and thoughts to make sure things are aligned precisely correct.
-
-It is like what we are working on right now - an idea-level refresh on the product. Everyone now starts to rethink about their design, code, documentation and process. We discuss several times everyday to keep each of us in the golden state of sync. Sometimes I am really amazed by our self...
-			</div>
-			<p id="post-link">
-				<a href="/en/brewing.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-		<div id="post-item-/en/the-shift" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/en/the-shift.html">The Shift</a></h2>
-				<p>Posted at 18 Jul 2011</p>
-			</div>
-			<div id="post-body">
-				This Monday, according to my work log, I spent 5.5 hours on brainstorm sessions. On product, business and design, I chatted with different people on or not on my team to find the golden point of the next breakthrough. This is the beauty of working on a start-up: you come up with a bright idea, and work your ass off, and then you come back again to the meeting room to find the next iteration to work on. This cycle ...
-			</div>
-			<p id="post-link">
-				<a href="/en/the-shift.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-		<div id="post-item-/en/prettier-excel-charts" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/en/prettier-excel-charts.html">Prettier Excel Charts</a></h2>
-				<p>Posted at 04 Jul 2011</p>
-			</div>
-			<div id="post-body">
-				I am working with a summer intern on visualizing trends on the mobile Internet in China. We use the Microsoft Office stack extensively all the way through. I find that over all these years, the default setup for charts in Excel is still to improve. I summarized some tips below FYI so you can easily apply to make the (bar) charts prettier.
-
-
-Choose your theme color to highlight and use greyscale colors for the rest...
-			</div>
-			<p id="post-link">
-				<a href="/en/prettier-excel-charts.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-		<div id="post-item-/en/android-by-msft" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/en/android-by-msft.html">Android by MSFT</a></h2>
-				<p>Posted at 21 Jun 2011</p>
-			</div>
-			<div id="post-body">
-				Yo: I'm doing an interview right now. The person does android. I asked her the difference with Android compared to other systems. She said Android is made by Microsoft and iPhone by Apple.
-
-Yo: Awesome. Can I post it on my Tumblr?
-
-Yo: Sure. What's your Tumblr account?
-
-			</div>
-			<p id="post-link">
-				<a href="/en/android-by-msft.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-		<div id="post-item-/cn/familiar" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/cn/familiar.html">熟悉</a></h2>
-				<p>Posted at 19 Jun 2011</p>
-			</div>
-			<div id="post-body">
-				生活的节奏变快了，便越来越没有时间思考细微的选择。在购买的时候，往往屈服于熟悉两个字。
-
-比如前段时间买来的登机箱，其实完全可以省下一半的钱。但是买箱包这件事所带来的哪些繁琐，想起来就觉得是累赘，需要仔细甄别真假、颜色和款式，还不如就去已经知道的那家店，买同事已经买过的款式和颜色。唯一的麻烦可能是日后行李万一放在一起会混淆，不过也无伤大雅。
-
-比如在 iPad 上林林总总的阅读应用，大多数都是从各种网站上抓取来，按照一定的办法重新分类排版改头换面成一本杂志的样子。可惜的是，杂志毕竟是老到的编辑篇篇字字遴选而来，与摄影美工相互磨合出来。即便标题抓不住你的眼球，也总有在闲暇时光随手翻翻的价值。事到如今，人工编辑仍然是我笃信的价值。认识杂志的名字，比什么都重要。
-
-比如经常去的超市、便利店、面包房和咖啡馆，好像总是去那些固定的地方。久而久之，腻味了，但还是再去。在街旁上的那些地点，如果在地图上用图钉标注，一定会把图纸都戳烂。从这...
-			</div>
-			<p id="post-link">
-				<a href="/cn/familiar.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-		<div id="post-item-/en/business-cards" class="post-item-wrapper">
-			<div id="post-title">
-				<h2><a href="/en/business-cards.html">Business Cards</a></h2>
-				<p>Posted at 15 Jun 2011</p>
-			</div>
-			<div id="post-body">
-				Yo: Is there a back for the GH business card? If it's the same on both sides, can we do one side in Chinese, and one side in English?
-
-Yo: We keep the back blank.
-
-			</div>
-			<p id="post-link">
-				<a href="/en/business-cards.html">Read now &rarr;</a>
-			</p>
-		</div>
-	
-	
-	<div id="post-navigation" class="pagination">
-		<ul>
-		
-		
-		
-			
-				<li class="prev"><a href="/">&larr; Previous</a></li>
-			
-			<li><a href="/">1</a></li>
-				
-		
-		
-			
-				<li class="active"><a href="/page2">2</a></li>
-			
-		
-			
-				<li><a href="/page3">3</a></li>
-			
-		
-
-		
-			<li class="next"><a href="/page3/">Next &rarr;</a></li>
-		
-		
-		
+	</div>
+	<div class="pagination">
+		<ul id="pagination">
+			<li><a id="prev">&larr; Previous</a></li>
+			<li><a id="next">Next &rarr;</a></li>
 		</ul>
 	</div>
 </div>
+<script type="text/template" id='tpl-post-item'>
+	<div class="post-item-wrapper">
+		<div id="post-title">
+			<h2><a href="<%= link %>"><%= title %></a></h2>
+			<p>Posted at <%= updated %></p>
+		</div>
+		<div id="post-body">
+			<%= excerpt %>
+		</div>
+		<p id="post-link">
+			<a href="<%= link %>">Read now &rarr;</a>
+		</p>
+	</div>
+</script>
 	    </div>
 	    <div class="row">
 	        <div id="footer" class="span8 offset2">
@@ -256,5 +95,11 @@ Yo: We keep the back blank.
 </div>
 	    </div>
     </div>
+    <script type="text/javascript" src="/assets/js/app.js"></script>
+    <script type="text/javascript">
+        $(function() {
+            App.init();
+        });
+    </script>
     </body>
 </html>

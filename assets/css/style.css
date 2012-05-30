@@ -71,6 +71,11 @@ body {
 	font-size: 13.5px;
 }
 
+#post-navigation a.disabled {
+	background: #EEE;
+	color: #666;
+}
+
 #footer {
 	margin-top: 20px;
 	margin-bottom: 20px;
