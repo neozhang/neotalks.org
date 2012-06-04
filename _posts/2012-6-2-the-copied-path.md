@@ -10,7 +10,7 @@ It is the era of "app boom". [46MM app downloads](http://venturebeat.com/2012/05
 
 [**Taohuayuan Si Weibo**](http://itunes.apple.com/us/app/tao-hua-yuan-si-wei-bo/id517926523?mt=8) - this recently released mobile social app basically takes 100% of Path UI. And the team claimed that the "copy UI" decision was made after "profound and rational thinking". In an interview, the founder explained that the app will differentiate itself on user operations, and will add localized features like offline message history, guestbook and user data migration. The team has 10+ employees and raised funding of USD 1 million.
 
-![Taohuayuan Si Weibo](/assets/images/the-copied-path/taohuayuan-1.jpg) ![Taohuayuan Si Weibo](/assets/images/the-copied-path/taohuayuan-2.jpg) 
+<img src="/assets/images/the-copied-path/taohuayuan-1.jpg" alt="Taohuayuan Si Weibo" title="" width="248px" /> <img src="/assets/images/the-copied-path/taohuayuan-2.jpg" alt="Taohuayuan Si Weibo" title="" width="248px" /> 
 
 [**Meike**](http://itunes.apple.com/cn/app/mei-ke/id515190686?mt=8) - published by Kaixin001, a popular Facebook-like social network in China, Meike also copied almost everything from Path. In the latest release, the app started to add a "voice message" feature which was not included in Path. Interestingly enough, Kaixin001 built its first success by copying Facebook and FarmVille a few years, but the service has lost a significant share of traffic recently, leading to its continuous copying of Pinterest ([Jipin](http://itunes.apple.com/cn/app/kai-xin-ji-pin/id505948472?mt=8) and Path (Meike).
 
