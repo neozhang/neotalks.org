@@ -14,15 +14,15 @@ It is the era of "app boom". [46MM app downloads](http://venturebeat.com/2012/05
 
 [**Meike**](http://itunes.apple.com/cn/app/mei-ke/id515190686?mt=8) - published by Kaixin001, a popular Facebook-like social network in China, Meike also copied almost everything from Path. In the latest release, the app started to add a "voice message" feature which was not included in Path. Interestingly enough, Kaixin001 built its first success by copying Facebook and FarmVille a few years, but the service has lost a significant share of traffic recently, leading to its continuous copying of Pinterest ([Jipin](http://itunes.apple.com/cn/app/kai-xin-ji-pin/id505948472?mt=8) and Path (Meike).
 
-![Meike](/assets/images/the-copied-path/meike-1.jpg) ![Meike](/assets/images/the-copied-path/meike-2.jpg)
+<img src="/assets/images/the-copied-path/meike-1.jpg" alt="Meike" title="" width="248px" /> <img src="/assets/images/the-copied-path/meike-2.jpg" alt="Meike" title="" width="248px" />
 
 [**Shiguangliu**](http://itunes.apple.com/us/app/shi-guang-liu/id484829029?mt=8) - as a start-up aiming to be the mobile social network of choice, Shiguangliu was one of the first China apps which adopted the Path-like design. Honestly, it added its own flavor, but in this situation these tweaks may not be perceived as silver bullets.
 
-![Shiguangliu](/assets/images/the-copied-path/shiguangliu-1.jpg) ![Shiguangliu](/assets/images/the-copied-path/shiguangliu-2.jpg)
+<img src="/assets/images/the-copied-path/shiguangliu-1.jpg" alt="Shiguangliu" title="" width="248px"/> <img src="/assets/images/the-copied-path/shiguangliu-2.jpg" alt="Shiguangliu" title="" width="248px" />
 
 Some other apps include [**Diandi**](http://itunes.apple.com/cn/app/dian-di-quan-xin-yi-dong-si/id504173860) and [**Jiaoyin**](http://itunes.apple.com/cn/app/jiao-yin/id492236906?mt=8). These apps use 90% of Path design and only changed the color set or other detail tweaks. Some product managers think that the ability to copy fast and localize smartly is the key success factor.
 
-![Diandi](/assets/images/the-copied-path/diandi-1.jpg) ![Jiaoyin](/assets/images/the-copied-path/jiaoyin-1.jpg)
+<img src="/assets/images/the-copied-path/diandi-1.jpg" alt="Diandi" title="" width="248px" /> <img src="/assets/images/the-copied-path/jiaoyin-1.jpg" alt="Jiaoyin" title="" width="248px" />
 
 ## The China Path or the Copy Path?
 
