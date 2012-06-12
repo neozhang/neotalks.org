@@ -1,5 +1,5 @@
 ---
-title: Our New Maps: The Hyperlocal Apps
+title: Our New Maps - The Hyperlocal Apps
 category: en
 layout: post
 ---
