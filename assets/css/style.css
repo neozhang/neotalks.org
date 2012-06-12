@@ -76,6 +76,12 @@ body {
 	color: #666;
 }
 
+#post-body img {
+	width: 250px;
+	padding: 5px;
+	border: 1px solid #CCC;
+}
+
 #footer {
 	margin-top: 20px;
 	margin-bottom: 20px;
