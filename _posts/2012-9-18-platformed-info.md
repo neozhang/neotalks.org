@@ -4,7 +4,7 @@ category: en
 layout: post
 ---
 
-We launched a new platform called MIX a little more than a month ago. It was a long-waited product launch as the team has been excited about it since end of last year. Different from any exiting mobile ad platforms, it adds some "community" elements by having a "marketplace" for app developers (in this case, mobile game developers) to trade ad inventory.
+We launched a new platform called [MIX](http://mix.guohead.com) a little more than a month ago. It was a long-waited product launch as the team has been excited about it since end of last year. Different from any exiting mobile ad platforms, it adds some "community" elements by having a "marketplace" for app developers (in this case, mobile game developers) to trade ad inventory.
 
 This brings up a new type of challenge: building a two-sided market through attracting both buyers and sellers to the platform. It seems similar with any classic ad network model, but MIX is even more sophisticated as we designed it to be a peer-to-peer network, instead of an algorithm-driven automated trading floor.
 
