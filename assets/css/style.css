@@ -116,8 +116,8 @@ body {
 
 #post-body {
 	clear: both;
-	padding: 20px;
-	padding-bottom: 0px;
+	padding: 20px 10px;
+	padding-top: 0px;
 }
 
 #post-body img {
@@ -128,7 +128,7 @@ body {
 
 #post-link {
 	background: #E7E7E7;
-	padding: 20px 10px;
+	padding: 10px 20px;
 }
 
 #post-link:hover {
