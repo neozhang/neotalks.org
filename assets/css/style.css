@@ -14,15 +14,6 @@
 		font-size: 50% !important;
 		margin-top: 12px !important;
 	}
-
-	#footer .elsewhere {
-		float: left !important;
-	}
-
-	#footer .elsewhere li {
-		margin-left: 0px !important;
-		margin-right: 1.5em !important;
-	}
 }
 
 body {
@@ -80,6 +71,12 @@ body {
 	font-size: 14px;
 	color: #909090;
 	float: right;
+	margin-top: 18px;
+	background: #E7E7E7;
+	padding: 0px 20px;
+	margin-right: -20px;
+	padding-left: 10px;
+	border-radius: 4px 0px 0px 4px;
 }
 
 #site-navigation .breadcrumb {
@@ -100,6 +97,7 @@ body {
 	padding: 20px;
 	box-shadow: 0px 0px 5px rgba(0, 0, 0, .1);
 	background: #FFF;
+	border: 1px solid #DDD;
 }
 
 #post-navigation a {
@@ -135,17 +133,7 @@ body {
 
 #footer ul li {
 	margin: 0;
-	margin-left: 1.5em;
+	margin-right: 1.5em;
 	padding: 0;
 	display: inline;
-}
-
-
-
-#footer .copyright {
-	float: left;
-}
-
-#footer .elsewhere {
-	float: right;
 }

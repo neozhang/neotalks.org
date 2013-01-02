@@ -11,7 +11,7 @@ layout: base
 	<div class="post-item-wrapper">
 		<div id="post-title">
 			<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-			<p>Posted at {{ page.date | date_to_string }}</p>
+			<p>{{ page.date | date_to_string }}</p>
 		</div>
 		<div id="post-body">
 			{{ content }}
