@@ -60,6 +60,7 @@ body {
 #content #post-title h2 {
 	float: left;
 	padding-bottom: 10px;
+	width: 75%;
 }
 
 #content #post-title h2 a {
