@@ -1,5 +1,5 @@
 ---
-title: 非技术背景背景在创业团队做什么？
+title: 非技术背景在创业团队做什么？
 layout: post
 category: cn
 ---
