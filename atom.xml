@@ -5,14 +5,14 @@ title : Atom Feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>{{ site.title }}</title>
- <link href="{{ site.url }}/atom.xml" rel="self"/>
- <link href="{{ site.url }}"/>
+ <title>Neo Talks</title>
+ <link href="http://neotalks.org"/>
+ <link type="application/atom+xml" href="http://neotalks.org/atom.xml" rel="self"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>{{ site.url }}</id>
+ <id>http://neotalks.org</id>
  <author>
-   <name>{{ site.author.name }}</name>
-   <email>{{ site.author.email }}</email>
+   <name>Neo Zhang</name>
+   <email>neo.zhangning@gmail.com</email>
  </author>
 
  {% for post in site.posts %}
